@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sania Golhar
+# 👋 Hi, I'm Sania 
 Coder by the day, Full-time Artist
 
 
@@ -36,7 +36,7 @@ Coder by the day, Full-time Artist
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
-
+![Snake animation](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
 
 ## 📊 GitHub Stats
 
