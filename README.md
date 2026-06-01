@@ -11,7 +11,6 @@ Coder by the day, Full-time Artist
 
 - 🔭 Currently working on: Machine Learning concepts in Health
 - 🌱 Currently learning: **Machine Learning & System Design**
-- ⚙️ Built: **PICA — Portable Instruction Compiler (C++)**
 - 💬 Ask me about: **Web Dev, DSA, Backend Systems**
 - 📫 Reach me at: **sania.golhar@gmail.com**
 - ⚡ Fun fact: I mix creativity 🎨 with code 💻
@@ -31,7 +30,6 @@ Coder by the day, Full-time Artist
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
@@ -49,7 +47,7 @@ Coder by the day, Full-time Artist
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-linkedin-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/sania-golhar-07473122a)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:sania.golhar@gmail.com)
 
 ---
